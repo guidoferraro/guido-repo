@@ -1,3 +1,8 @@
 # guido-repo
 
-Aca le mandamo algunos cambios para ser diferentes al Master :)
+Some code I use on my everyday VFX journey
+
+Nuke
+3dEqualizer
+
+Python & TCL
